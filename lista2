@@ -2,7 +2,7 @@
 #PLAYLISTV: pltv-logo="XXX LINK LOGO XXX" pltv-name="XXX NOME DA LISTA XXX" pltv-description="XXX DESCRIÇÃO DA LISTA XXX" pltv-cover="XXX CAPA DA LISTA XXX" pltv-author="XXX AUTOR DA LISTA XXX" pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="XXX E-MAIL XXX"
 
 
-################## XXXX SEPARADOR XXXX ########################
+################## canais abertos  ########################
 
 #EXTINF:-1,CNN_2
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
@@ -10,3 +10,38 @@ https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT Interior SP
+https://5a1c76baf08c0.streamlock.net/sbtinterior/25twftddfvwdgb5oodon3nxdcrmj5qbo/chunklist_w291063918.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Belo Horizonte
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Variedades", TV Pampa - RedeTV! RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Jornalismo",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="Infantil", Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="Infantil", Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mancheteweb.png" group-title="WebTV",TV Manchete - WebTV
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/reconsatkids.png" group-title="Infantil", Recon Sat Kids
+https://stmv1.srvif.com/reconsatkids/reconsatkids/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="Pública", Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_topo.png" group-title="Variedades", TV União (CE)
+https://stmv1.srvif.com/admin/admin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="Esportes", All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-super-logo-tv.png" group-title="Religioso", Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="Infantil", Gospel Cartoon
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
+
+
+
+
+
+
