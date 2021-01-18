@@ -40,186 +40,458 @@ http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="Infantil", Gospel Cartoon
 https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | 4K [FHDR]",Cartoon Network 4K FHDR
+http://srvx.io:80/y7pkj/yWJDd/71830
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network FHD
+http://srvx.io:80/y7pkj/yWJDd/71828
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Alternativos",Cartoon Network FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90595
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71829
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network HD
+http://srvx.io:80/y7pkj/yWJDd/71831
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Alternativos",Cartoon Network HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90596
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network SD
+http://srvx.io:80/y7pkj/yWJDd/71832
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Alternativos",Cartoon Network SD [Alter]
 
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="Filmes e Séries",Telecine Premium HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/138.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Filmes e Séries",Telecine Premium
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/18.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="Filmes e Séries",Telecine Action HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/141.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Séries",Telecine Action
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/22.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="Filmes e Séries",Telecine Touch HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/137.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e Séries",Telecine Touch
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/17.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="Filmes e Séries",Telecine Pipoca HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/139.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Séries",Telecine Pipoca
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/19.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="Filmes e Séries",Telecine Fun HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/140.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Filmes e Séries",Telecine Fun
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/20.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Filmes e Séries",Telecine Cult
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/21.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="Filmes e Séries",HBO HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/165.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Séries",HBO
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/84.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="Filmes e Séries",HBO 2 HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/167.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Séries",HBO2
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/79.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus HD" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="Filmes e Séries",HBO Plus HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/164.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Séries",HBO Plus
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/82.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="HBO Plus Panregional" tvg-name="HBO Plus *e" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Séries",HBO Plus *e
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/81.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="Filmes e Séries",HBO Family HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/166.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Séries",HBO Family
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/83.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="Filmes e Séries",HBO Signature HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/163.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Séries",HBO Signature
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/80.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Max [Brazil]" tvg-name="Max" tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="Filmes e Séries",Max
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/73.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Max Up HD [Brazil]" tvg-name="Max UP" tvg-logo="http://i.imgur.com/3Ci9AWu.png" group-title="Filmes e Séries",Max UP
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/70.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Max Prime [Brazil]" tvg-name="Max Prime" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Séries",Max Prime
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/72.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Max Prime *e [Brazil]" tvg-name="Max Prime *e" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Séries",Max Prime *e
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/71.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Cinemax [Brazil]" tvg-name="Cinemax" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Séries",Cinemax
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/115.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX HD" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="Filmes e Séries",FOX HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/175.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Filmes e Séries",FOX
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/95.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX Premium 1 HD" tvg-logo="http://i.imgur.com/UdWwHl4.png" group-title="Filmes e Séries",FOX Premium 1 HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/177.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX Premium 2 HD" tvg-logo="http://i.imgur.com/nX8XMzD.png" group-title="Filmes e Séries",FOX Premium 2 HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/176.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="FOX Life HD" tvg-logo="http://i.imgur.com/3vYVugf.png" group-title="Filmes e Séries",FOX Life HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/174.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="FOX Life" tvg-logo="http://i.imgur.com/3vYVugf.png" group-title="Filmes e Séries",FOX Life
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/94.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Séries",FX HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/171.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Séries",FX
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/90.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony HD" tvg-logo="https://s31.postimg.org/r52hou6h7/sony2.png" group-title="Filmes e Séries",Canal Sony HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/190.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Filmes e Séries",Canal Sony
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/118.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/u0NMVSV.png" group-title="Filmes e Séries",AXN HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/194.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Filmes e Séries",AXN
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/128.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD" tvg-logo="http://i.imgur.com/0qAgY7N.png" group-title="Filmes e Séries",Warner Channel HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/580.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner Channel
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/2.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Space" tvg-name="Space HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Séries",Space HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/146.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Séries",Space
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/32.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Séries",TNT HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/136.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Séries",TNT
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/13.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Séries HD" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Séries",TNT Séries HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/135.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Séries" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Séries",TNT Séries
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/12.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Séries",TBS HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/142.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Séries",TBS
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/24.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="Filmes e Séries",TCM
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/23.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="I.Sat" tvg-name="I.Sat" tvg-logo="http://i.imgur.com/L44p3if.png" group-title="Filmes e Séries",I.Sat
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/78.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix HD" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Séries",Megapix HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/160.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Séries",Megapix
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/69.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel HD" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Séries",Universal Channel HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/134.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Séries",Universal Channel
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/5.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Filmes e Séries",Studio Universal HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/26.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Filmes e Séries",A&E
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/132.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Séries",Syfy
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/25.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais Globosat" tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="Filmes e Séries",Mais Globosat
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/74.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Filmes e Séries",Canal Brasil
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/120.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://s31.postimg.org/f9lq0eei3/paramount.png" group-title="Filmes e Séries",Paramount Channel HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/155.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/57.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Filmes e Séries",Prime Box Brazil
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/45.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV HD" tvg-logo="http://i.imgur.com/BpmL4PI.png" group-title="Esportes",SporTV HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/143.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV" tvg-logo="http://i.imgur.com/BpmL4PI.png" group-title="Esportes",SporTV
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/31.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2 HD" tvg-logo="http://i.imgur.com/qDJBu3O.png" group-title="Esportes",SporTV 2 HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/145.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2" tvg-logo="http://i.imgur.com/qDJBu3O.png" group-title="Esportes",SporTV 2
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/30.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="SporTV 3 HD" tvg-logo="http://i.imgur.com/86vWSqY.png" group-title="Esportes",SporTV 3 HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/144.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="SporTV 3" tvg-logo="http://i.imgur.com/86vWSqY.png" group-title="Esportes",SporTV 3
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/28.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="FOX Sports HD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png" group-title="Esportes",FOX Sports HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/173.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="FOX Sports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",FOX Sports
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/93.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="FOX Sports 2 HD" tvg-logo="http://assets.enterplay.com.br/images/Channels/Original/fox_sports2.png" group-title="Esportes",FOX Sports 2 HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/172.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="FOX Sports 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",FOX Sports 2
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/92.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-name="ESPN Brasil HD" tvg-logo="https://s15.postimg.org/osy22irjv/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/180.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-name="ESPN Brasil" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/98.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN HD" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/179.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/99.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-name="ESPN +" tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="Esportes",ESPN +
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/181.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="EI Maxx" tvg-name="EI MAXX HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/182.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="EI Maxx" tvg-name="EI MAXX" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/101.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="EI MAXX 2 HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX 2 HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/183.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="EI MAXX 2" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX 2
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/100.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",Esporte Interativo HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/178.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports HD" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",BandSports HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/192.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",BandSports
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/125.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Off" tvg-name="OFF HD" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",OFF HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/156.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Off" tvg-name="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",OFF
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/58.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="http://i.imgur.com/Dt61U19.png" group-title="Esportes",Woohoo
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/1.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Fish TV" tvg-name="FishTV" tvg-logo="http://i.imgur.com/HXQoT1u.png" group-title="Esportes",FishTV
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/97.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate HD
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/189.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate
-plugin://plugin.video.f4mTester/?url=http://mundogf.dyndns.tv:25461/live/Marco2/XCJsiLkH5v/114.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate FHD
+http://srvx.io:80/y7pkj/yWJDd/71842
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Alternativos",Combate FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90586
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71843
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate HD
+http://srvx.io:80/y7pkj/yWJDd/71845
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Alternativos",Combate HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90587
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate SD
+http://srvx.io:80/y7pkj/yWJDd/71846
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Alternativos",Combate SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90588
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | 4K [FHDR]",Comedy Central 4K FHDR
+http://srvx.io:80/y7pkj/yWJDd/90642
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central FHD
+http://srvx.io:80/y7pkj/yWJDd/71847
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Alternativos",Comedy Central FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90583
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71848
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central HD
+http://srvx.io:80/y7pkj/yWJDd/71849
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Alternativos",Comedy Central HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90584
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central SD
+http://srvx.io:80/y7pkj/yWJDd/71850
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Alternativos",Comedy Central SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90585
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | 4K [FHDR]",Discovery Channel 4K FHDR
+http://srvx.io:80/y7pkj/yWJDd/71864
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel FHD
+http://srvx.io:80/y7pkj/yWJDd/71862
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Alternativos",Discovery Channel FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90571
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71863
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel HD
+http://srvx.io:80/y7pkj/yWJDd/71865
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Alternativos",Discovery Channel HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90572
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel SD
+http://srvx.io:80/y7pkj/yWJDd/71866
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Alternativos",Discovery Channel SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90573
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | 4K [FHDR]",Discovery H&H 4K FHDR
+http://srvx.io:80/y7pkj/yWJDd/90251
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H FHD
+http://srvx.io:80/y7pkj/yWJDd/71867
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Alternativos",Discovery H&H FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90568
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71868
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H HD
+http://srvx.io:80/y7pkj/yWJDd/71869
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Alternativos",Discovery H&H HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90569
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H SD
+http://srvx.io:80/y7pkj/yWJDd/71870
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Alternativos",Discovery H&H SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90570
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | 4K [FHDR]",Discovery Kids 4K FHDR
+http://srvx.io:80/y7pkj/yWJDd/90250
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids FHD
+http://srvx.io:80/y7pkj/yWJDd/71871
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Alternativos",Discovery Kids FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90565
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71872
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids HD
+http://srvx.io:80/y7pkj/yWJDd/71873
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Alternativos",Discovery Kids HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90566
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids SD
+http://srvx.io:80/y7pkj/yWJDd/71874
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Alternativos",Discovery Kids SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90567
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science FHD
+http://srvx.io:80/y7pkj/yWJDd/71875
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Alternativos",Discovery Science FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90562
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71876
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science HD
+http://srvx.io:80/y7pkj/yWJDd/71877
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Alternativos",Discovery Science HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90563
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science SD
+http://srvx.io:80/y7pkj/yWJDd/71878
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Alternativos",Discovery Science SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90564
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater FHD
+http://srvx.io:80/y7pkj/yWJDd/71879
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Alternativos",Discovery Theater FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90559
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71880
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater HD
+http://srvx.io:80/y7pkj/yWJDd/71881
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Alternativos",Discovery Theater HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90560
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater SD
+http://srvx.io:80/y7pkj/yWJDd/71882
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Alternativos",Discovery Theater SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90561
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | 4K [FHDR]",Discovery Turbo 4K FHDR
+http://srvx.io:80/y7pkj/yWJDd/90641
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo FHD
+http://srvx.io:80/y7pkj/yWJDd/71883
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Alternativos",Discovery Turbo FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90556
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71884
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo HD
+http://srvx.io:80/y7pkj/yWJDd/71885
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Alternativos",Discovery Turbo HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90557
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo SD
+http://srvx.io:80/y7pkj/yWJDd/71886
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Alternativos",Discovery Turbo SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90558
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World FHD
+http://srvx.io:80/y7pkj/yWJDd/71887
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Alternativos",Discovery World FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90553
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71888
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World HD
+http://srvx.io:80/y7pkj/yWJDd/71889
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Alternativos",Discovery World HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90554
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World SD
+http://srvx.io:80/y7pkj/yWJDd/71890
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Alternativos",Discovery World SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90555
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel FHD
+http://srvx.io:80/y7pkj/yWJDd/71891
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Alternativos",Disney Channel FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90550
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71892
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel HD
+http://srvx.io:80/y7pkj/yWJDd/71893
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Alternativos",Disney Channel HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90551
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel SD
+http://srvx.io:80/y7pkj/yWJDd/71894
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Alternativos",Disney Channel SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90552
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior FHD
+http://srvx.io:80/y7pkj/yWJDd/71895
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Alternativos",Disney Junior FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90547
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71896
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior HD
+http://srvx.io:80/y7pkj/yWJDd/71897
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Alternativos",Disney Junior HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90548
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior SD
+http://srvx.io:80/y7pkj/yWJDd/71898
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Alternativos",Disney Junior SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90549
+#EXTINF:-1 tvg-logo="http://a5.vc/bUA" group-title="Canais | Infantis",Disney XD SD
+http://srvx.io:80/y7pkj/yWJDd/71899
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | 4K [FHDR]",FOX 4K FHDR
+http://srvx.io:80/y7pkj/yWJDd/90249
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries",Fox FHD
+http://srvx.io:80/y7pkj/yWJDd/71936
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Alternativos",Fox FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90526
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries",Fox FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71937
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Legendados",Fox FHD [LEG]
+http://srvx.io:80/y7pkj/yWJDd/90707
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries",Fox HD
+http://srvx.io:80/y7pkj/yWJDd/71938
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Alternativos",Fox HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90527
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Legendados",Fox HD [LEG]
+http://srvx.io:80/y7pkj/yWJDd/90706
+#EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades",Fox Life FHD
+http://srvx.io:80/y7pkj/yWJDd/71939
+#EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Alternativos",Fox Life FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90523
+#EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades",Fox Life FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71940
+#EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades",Fox Life HD
+http://srvx.io:80/y7pkj/yWJDd/71941
+#EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Alternativos",Fox Life HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90524
+#EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades",Fox Life SD
+http://srvx.io:80/y7pkj/yWJDd/71942
+#EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Alternativos",Fox Life SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90525
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries",Fox Premium 1 FHD
+http://srvx.io:80/y7pkj/yWJDd/71943
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Alternativos",Fox Premium 1 FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90520
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries",Fox Premium 1 FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71944
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Legendados",Fox Premium 1 FHD [LEG]
+http://srvx.io:80/y7pkj/yWJDd/90704
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries",Fox Premium 1 HD
+http://srvx.io:80/y7pkj/yWJDd/71945
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Alternativos",Fox Premium 1 HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90521
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Legendados",Fox Premium 1 HD [LEG]
+http://srvx.io:80/y7pkj/yWJDd/90703
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries",Fox Premium 1 SD
+http://srvx.io:80/y7pkj/yWJDd/71946
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Alternativos",Fox Premium 1 SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90522
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Legendados",Fox Premium 1 SD [LEG]
+http://srvx.io:80/y7pkj/yWJDd/90702
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries",Fox Premium 2 FHD
+http://srvx.io:80/y7pkj/yWJDd/71947
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Alternativos",Fox Premium 2 FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90517
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries",Fox Premium 2 FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71948
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Legendados",Fox Premium 2 FHD [LEG]
+http://srvx.io:80/y7pkj/yWJDd/90701
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries",Fox Premium 2 HD
+http://srvx.io:80/y7pkj/yWJDd/71949
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Alternativos",Fox Premium 2 HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90518
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Legendados",Fox Premium 2 HD [LEG]
+http://srvx.io:80/y7pkj/yWJDd/90700
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries",Fox Premium 2 SD
+http://srvx.io:80/y7pkj/yWJDd/71950
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Alternativos",Fox Premium 2 SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90519
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Legendados",Fox Premium 2 SD [LEG]
+http://srvx.io:80/y7pkj/yWJDd/90699
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries",Fox SD
+http://srvx.io:80/y7pkj/yWJDd/71951
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Alternativos",Fox SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90528
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Legendados",Fox SD [LEG]
+http://srvx.io:80/y7pkj/yWJDd/90705
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | 4K [FHDR]",Fox Sports 2 4K FHDR
+http://srvx.io:80/y7pkj/yWJDd/71954
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 FHD
+http://srvx.io:80/y7pkj/yWJDd/71952
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Alternativos",Fox Sports 2 FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90514
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71953
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 HD
+http://srvx.io:80/y7pkj/yWJDd/71955
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Alternativos",Fox Sports 2 HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90515
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 SD
+http://srvx.io:80/y7pkj/yWJDd/71956
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Alternativos",Fox Sports 2 SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90516
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | 4K [FHDR]",Fox Sports 4K FHDR
+http://srvx.io:80/y7pkj/yWJDd/71959
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports FHD
+http://srvx.io:80/y7pkj/yWJDd/71957
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Alternativos",Fox Sports FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90511
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71958
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports HD
+http://srvx.io:80/y7pkj/yWJDd/71960
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Alternativos",Fox Sports HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90512
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports SD
+http://srvx.io:80/y7pkj/yWJDd/71961
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Alternativos",Fox Sports SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90513
+#EXTINF:-1 tvg-logo="http://a5.vc/dgd" group-title="Canais | Abertos",Futura FHD
+http://srvx.io:80/y7pkj/yWJDd/71962
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas FHD
+http://srvx.io:80/y7pkj/yWJDd/71970
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Alternativos",Globo Minas FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90499
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas HD
+http://srvx.io:80/y7pkj/yWJDd/71971
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Alternativos",Globo Minas HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90500
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Minas SD
+http://srvx.io:80/y7pkj/yWJDd/71972
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Alternativos",Globo Minas SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90501
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | 4K [FHDR]",Globo News 4K FHDR
+http://srvx.io:80/y7pkj/yWJDd/90248
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News FHD
+http://srvx.io:80/y7pkj/yWJDd/71997
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Alternativos",Globo News FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90496
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/71998
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Notícias",Globo News HD
+http://srvx.io:80/y7pkj/yWJDd/71999
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Canais | Alternativos",Globo News HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90497
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Notícias",Globo News SD
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | 4K [FHDR]",Nickelodeon 4K FHDR
+http://srvx.io:80/y7pkj/yWJDd/90241
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon FHD
+http://srvx.io:80/y7pkj/yWJDd/72205
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Alternativos",Nickelodeon FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90385
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/72206
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon HD
+http://srvx.io:80/y7pkj/yWJDd/72207
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Alternativos",Nickelodeon HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90386
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Infantis",Nickelodeon SD
+http://srvx.io:80/y7pkj/yWJDd/72208
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Canais | Alternativos",Nickelodeon SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90387
+#EXTINF:-1 tvg-logo="http://a5.vc/Cey" group-title="Canais | Infantis",Nick Jr FHD
+http://srvx.io:80/y7pkj/yWJDd/72201
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Alternativos",Nick Jr FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90388
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/72202
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr HD
+http://srvx.io:80/y7pkj/yWJDd/72203
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Alternativos",Nick Jr HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90389
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Infantis",Nick Jr SD
+http://srvx.io:80/y7pkj/yWJDd/72204
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Canais | Alternativos",Nick Jr SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90390
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD
+http://srvx.io:80/y7pkj/yWJDd/72237
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 2 FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90376
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/72238
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 HD
+http://srvx.io:80/y7pkj/yWJDd/72239
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 2 HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90377
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 2 SD
+http://srvx.io:80/y7pkj/yWJDd/72240
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 2 SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90378
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD
+http://srvx.io:80/y7pkj/yWJDd/72241
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 3 FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90373
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/72242
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 HD
+http://srvx.io:80/y7pkj/yWJDd/72243
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 3 HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90374
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 3 SD
+http://srvx.io:80/y7pkj/yWJDd/72244
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 3 SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90375
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 FHD
+http://srvx.io:80/y7pkj/yWJDd/72245
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 4 FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90370
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/72246
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 HD
+http://srvx.io:80/y7pkj/yWJDd/72247
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 4 HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90371
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 4 SD
+http://srvx.io:80/y7pkj/yWJDd/72248
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 4 SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90372
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 FHD
+http://srvx.io:80/y7pkj/yWJDd/72249
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 5 FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90367
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/72250
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 HD
+http://srvx.io:80/y7pkj/yWJDd/72251
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 5 HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90368
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 5 SD
+http://srvx.io:80/y7pkj/yWJDd/72252
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 5 SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90369
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 FHD
+http://srvx.io:80/y7pkj/yWJDd/72253
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 6 FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90364
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/72254
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 HD
+http://srvx.io:80/y7pkj/yWJDd/72255
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 6 HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90365
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 6 SD
+http://srvx.io:80/y7pkj/yWJDd/72256
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 6 SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90366
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 FHD
+http://srvx.io:80/y7pkj/yWJDd/72257
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 7 FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90361
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/72258
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 HD
+http://srvx.io:80/y7pkj/yWJDd/72259
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 7 HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90362
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 7 SD
+http://srvx.io:80/y7pkj/yWJDd/72260
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 7 SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90363
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 8 FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90358
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 8 HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90359
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere 8 SD
+http://srvx.io:80/y7pkj/yWJDd/72261
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere 8 SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90360
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | 4K [FHDR]",Premiere Clubes 4K FHDR
+http://srvx.io:80/y7pkj/yWJDd/72264
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD
+http://srvx.io:80/y7pkj/yWJDd/72262
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere Clubes FHD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90355
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes FHD [H265]
+http://srvx.io:80/y7pkj/yWJDd/72263
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes HD
+http://srvx.io:80/y7pkj/yWJDd/72265
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere Clubes HD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90356
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Premiere",Premiere Clubes SD
+http://srvx.io:80/y7pkj/yWJDd/72266
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Canais | Alternativos",Premiere Clubes SD [Alter]
+http://srvx.io:80/y7pkj/yWJDd/90357
